@@ -1,4 +1,4 @@
-# Zilch Mobile Appium automation for iOS & Android
+# Mobile Appium automation for iOS & Android
 
 ## Prerequisites on macOS
 
