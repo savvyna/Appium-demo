@@ -35,4 +35,4 @@ or
 
 
 
-**Note**: There are no installable files in the "apps" folder yet and no valid credentials to Log In.
+**Note**: There are no installable files in the "apps" folder yet and no valid credentials to Log In Zilch!
