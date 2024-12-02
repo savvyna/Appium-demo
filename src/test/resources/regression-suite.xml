@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Appium Mobile Regression Test Suite" parallel="methods" thread-count="2">
+    <test name="Regression Test">
+        <classes>
+            <class name="test.LoginTest">
+                <methods>
+                    <include name="testLogin"/>
+                </methods>
+            </class>
+            <class name="test.SignupTest">
+                <methods>
+                    <include name="testSignup"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
