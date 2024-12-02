@@ -27,7 +27,7 @@
 
 3. Run the tests - example for iOS:
 
-    `mvn clean test -Pios,regression-test'
+    `mvn clean test -Pios,regression-test`
 
 or
    * Right mouse click on any `src/test/java` test and `Run`
